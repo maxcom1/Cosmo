@@ -1,4 +1,4 @@
-# 🚀 1.0.0 (20.01)
+# 🚀 1.0.0 (20.01 - 15.04)
 🎯 **Krótki opis:**
 Przepisano bota, dodano ciekawe funkcje :)
 
@@ -47,3 +47,6 @@ Przepisano bota, dodano ciekawe funkcje :)
 **---------------------------**  
  Aktualnie moduł muzyczny znajduje się w fazie testów beta i może on zawierać różne błędy.
  Jeśli jednak chcesz odblokować moduł muzyczny na Twoim serwerze, skontaktuj się na discordzie: [maxcom1#0988](https://discord.com/users/440129212414951425) 
+
+**⚙️ 1.0.1 (15.04):**  
+ * Kilka poprawek błędów
